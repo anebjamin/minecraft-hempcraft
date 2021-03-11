@@ -1,0 +1,8 @@
+{
+  "parent": "da_weed_mod:custom/uv_light_-_copy",
+  "textures": {
+    "all": "da_weed_mod:blocks/uvlightbottom",
+    "particle": "da_weed_mod:blocks/uvlightbottom",
+    "torch": "da_weed_mod:blocks/uvlightside"
+  }
+}

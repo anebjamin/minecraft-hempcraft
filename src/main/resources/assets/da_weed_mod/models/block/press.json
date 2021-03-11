@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "da_weed_mod:blocks/pressbottom",
+    "up": "da_weed_mod:blocks/presstop",
+    "north": "da_weed_mod:blocks/pressside",
+    "east": "da_weed_mod:blocks/pressside",
+    "south": "da_weed_mod:blocks/pressside",
+    "west": "da_weed_mod:blocks/pressside",
+    "particle": "da_weed_mod:blocks/pressbottom"
+  }
+}

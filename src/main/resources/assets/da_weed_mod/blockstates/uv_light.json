@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "da_weed_mod:block/uv_light"
+    },
+    "facing=east": {
+      "model": "da_weed_mod:block/uv_light",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "da_weed_mod:block/uv_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "da_weed_mod:block/uv_light",
+      "y": 270
+    }
+  }
+}
