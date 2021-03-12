@@ -27,6 +27,9 @@
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
-    "inventoryStackSize": 1
+    "inventoryStackSize": 1,
+    "onRightClickedOnBlock": {
+      "name": "FillWeedPot"
+    }
   }
 }

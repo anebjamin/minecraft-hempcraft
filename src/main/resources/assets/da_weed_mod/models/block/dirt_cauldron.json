@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "da_weed_mod:blocks/cauldron_bottom",
+    "up": "da_weed_mod:blocks/cauldron_top",
+    "north": "da_weed_mod:blocks/cauldron_side",
+    "east": "da_weed_mod:blocks/cauldron_side",
+    "south": "da_weed_mod:blocks/cauldron_side",
+    "west": "da_weed_mod:blocks/cauldron_side",
+    "particle": "da_weed_mod:blocks/cauldron_bottom"
+  }
+}

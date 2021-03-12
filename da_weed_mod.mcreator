@@ -143,8 +143,8 @@
       "metadata": {
         "dependencies": [
           {
-            "name": "entity",
-            "type": "entity"
+            "name": "itemstack",
+            "type": "itemstack"
           },
           {
             "name": "x",
@@ -164,6 +164,24 @@
           }
         ]
       }
+    },
+    {
+      "name": "DirtCauldron",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_cauldron"
+    },
+    {
+      "name": "FertilizerRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fertilizer_recipe"
     }
   ],
   "variable_elements": [],
@@ -176,6 +194,7 @@
       "block.da_weed_mod.uv_light": "UV Light",
       "item.da_weed_mod.riz": "Riz",
       "itemGroup.tabda_weed_mod": "Da Weed Mod",
+      "block.da_weed_mod.dirt_cauldron": "Dirt Cauldron",
       "item.da_weed_mod.hemp": "Hemp"
     }
   },
